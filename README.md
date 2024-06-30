@@ -1,11 +1,8 @@
-sfff
-
-
 <h1 align="center">Hi 👋, I'm Bhargav Reddy, an Electronics and Communication Engineering (ECE) student with a strong passion for computer science, problem-solving, and web development. My interest lies in leveraging technology to create innovative and efficient solutions.Contributed to the eAppsys project, enhancing the system's functionality and user experience.</h1>
+<img align="right" width="300" src="https://tenor.com/en-GB/view/cat-coding-gif-22257939">
 - 📫 How to reach me **mvsbhargavreddy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" width="400" src= "https://search.brave.com/images?q=cat+coding+gif&source=web"?
 <p align="left">
 <a href="https://linkedin.com/in/bhargavreddy2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargavreddy2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mvsbhargavreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mvsbhargavreddy" height="30" width="40" /></a>
