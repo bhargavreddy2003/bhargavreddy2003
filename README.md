@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav Reddy, an Electronics and Communication Engineering (ECE) student with a strong passion for computer science, problem-solving, and web development. My interest lies in leveraging technology to create innovative and efficient solutions.Contributed to the eAppsys project, enhancing the system's functionality and user experience.</h1>
 
 - 📫 How to reach me **mvsbhargavreddy@gmail.com**
-<img align="right" alt="Coding" width="200" height="400" src=" https://dribbble.com/shots/4071007-Cat-badge-for-VK?utm_source=Clipboard_Shot&utm_campaign=graylama&utm_content=Cat%20badge%20for%20VK&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=graylama&utm_content=Cat%20badge%20for%20VK&utm_medium=Social_Share ">
+<img align="right" alt="Coding"  src=" https://dribbble.com/shots/4071007-Cat-badge-for-VK?utm_source=Clipboard_Shot&utm_campaign=graylama&utm_content=Cat%20badge%20for%20VK&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=graylama&utm_content=Cat%20badge%20for%20VK&utm_medium=Social_Share ">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
