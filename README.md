@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **mvsbhargavreddy@gmail.com**
 
-<img align="right" width="400" height="400" src="assets/Side_dp.gif" >
+<img align="right" width="250" height="250" src="assets/Side_dp.gif" >
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
