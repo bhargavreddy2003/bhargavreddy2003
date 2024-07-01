@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhargav Reddy, an Electronics and Communication Engineering (ECE) student with a strong passion for computer science, problem-solving, and web development. My interest lies in leveraging technology to create innovative and efficient solutions.</h1>
+<h3 align="center">Hi 👋, I'm Bhargav Reddy, an Electronics and Communication Engineering (ECE) student with a strong passion for computer science, problem-solving, and web development. My interest lies in leveraging technology to create innovative and efficient solutions.</h3>
 
 - 📫 How to reach me **mvsbhargavreddy@gmail.com**
 
