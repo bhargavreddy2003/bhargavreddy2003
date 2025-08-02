@@ -8,7 +8,10 @@ and using modern data tools to turn raw data into meaningful insight.
 
 - 📫 Reach me at: <strong>mvsbhargavreddy@gmail.com</strong>
 
-<img align="right" width="250" height="250" src="assets/Side_dp.gif" style="border-radius: 50%;" >
+<!-- ✅ Rounded image using supported HTML style -->
+<div align="right">
+  <img src="assets/Side_dp.gif" width="250" height="250" style="border-radius: 50%;" />
+</div>
 
 ---
 
