@@ -10,7 +10,6 @@
 <p align="right">
   <img src="assets/Side_dp.gif" width="200" height="200" style="border-radius: 50%;" />
 </p>
----
 
 <h3  align="left"> 📫 Reach me at:</h3>
 **mvsbhargavreddy@gmail.com**
