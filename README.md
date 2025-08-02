@@ -1,16 +1,73 @@
-<h3 align="center">Hi 👋, I'm Bhargav Reddy, an Electronics and Communication Engineering (ECE) student with a strong passion for computer science, problem-solving, and web development. My interest lies in leveraging technology to create innovative and efficient solutions.</h3>
+<h3 align="center">Hi 👋, I'm Bhargav Reddy</h3>
 
-- 📫 How to reach me **mvsbhargavreddy@gmail.com**
+<pre align="center" style="font-family: 'Courier New', monospace; font-size: 16px;">
+An ECE undergrad passionate about Data Engineering, Cloud Computing,
+and building scalable data pipelines for real-time analytics.
+</pre>
+
+- 📫 Reach me at: <strong>mvsbhargavreddy@gmail.com</strong>
 
 <img align="right" width="250" height="250" src="assets/Side_dp.gif" >
-<h3 align="left">Connect with me:</h3>
+
+---
+
+<h3 align="left">🧑‍💼 Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/bhargavreddy2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargavreddy2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mvsbhargavreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mvsbhargavreddy" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bhargavreddy2003" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/mvsbhargavreddy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
- </p>
+---
+
+<h3 align="left">🛠️ Languages & Tools:</h3>
+
+<pre style="font-family: 'Courier New', monospace; font-size: 15px;">
+🔷 Azure          🔷 Databricks        🔷 Power BI
+🐍 Python         ☕ Java              💠 C++
+⚡ Apache Spark   🌪️ Apache Airflow   🐳 Docker
+📦 Kafka          🧠 Machine Learning 🧪 SQL (PostgreSQL, MySQL)
+🔍 Git & GitHub   📊 DAX & M Code     🧬 MLflow
+</pre>
+
+---
+
+<h3 align="left">🚀 Project Highlights:</h3>
+
+<pre style="font-family: 'Courier New', monospace; font-size: 15px;">
+📡 Real-Time Air Quality Pipeline
+   - Kafka → Delta Live Tables → Auto SCD → Power BI → ML Models
+   - Technologies: Azure, Databricks, Spark, Python, DLT, Power BI
+
+📊 Sales Forecasting & BI Dashboards
+   - Built ARIMA/SARIMA/Prophet forecasting integrated into Power BI
+   - Automated SQL + ML pipeline for decision-making
+
+🧬 Machine Learning Model Deployment
+   - Built and deployed regression models using MLflow & Docker
+   - Realtime data served with FastAPI endpoints on Azure VM
+</pre>
+
+---
+
+<h3 align="left">📈 GitHub Stats:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargavreddy2003&show_icons=true&theme=tokyonight" alt="Bhargav's GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavreddy2003&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<blockquote>
+  <pre style="font-family: 'Courier New', monospace; font-size: 15px;">
+  "Data is the new oil, but only if it's refined, structured, and delivered right."
+  </pre>
+</blockquote>
