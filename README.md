@@ -1,7 +1,6 @@
 <h2 align="center">Hey there 👋 I'm Bhargav Reddy</h2>
 
-<p align="justify">
-  <img align="right" src="assets/Side_dp.gif" width="220" style="border-radius: 12px; margin-left: 16px;" />
+<p align="center">
   <code>
     I'm an ECE undergrad deeply passionate about data engineering — from designing robust pipelines  
     to transforming raw data into clear, valuable insights. I love solving complex data problems,  
@@ -10,7 +9,9 @@
   </code>
 </p>
 
-<br/>
+<p align="justify">
+  <img align="right" src="assets/Side_dp.gif" width="220" style="border-radius: 50%; margin-left: 20px;" />
+</p>
 
 ---
 
