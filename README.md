@@ -1,6 +1,7 @@
 <h3 align="center">Hey there 👋 I'm Bhargav Reddy</h3>
 
 <p align="justify">
+  <img align="right" src="assets/Side_dp.gif" width="200" style="border-radius: 20px; margin-left: 15px;" />
   I'm an ECE undergrad who's genuinely passionate about building real-world data solutions.  
   I love working with large-scale datasets, streaming pipelines, and using modern data tools  
   to turn raw data into meaningful insight. Whether it's building end-to-end data pipelines  
@@ -8,17 +9,13 @@
   with Databricks — I'm all in.
 </p>
 
-<p align="right">
-  <img src="assets/Side_dp.gif" width="200" height="200" style="border-radius: 50%;" />
+<h3>📫 Reach me at:</h3>
+<p>
+  <strong>📧 mvsbhargavreddy@gmail.com</strong>
 </p>
 
-<h3 align="left">📫 Reach me at:</h3>
-<p align="center">
-  <strong>mvsbhargavreddy@gmail.com</strong>
-</p>
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="center">
+<h3>🌐 Connect with me:</h3>
+<p>
   <a href="https://linkedin.com/in/bhargavreddy2003" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -26,16 +23,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
-
----
-
-### 🛠️ Tools & Technologies I Enjoy
-
-```text
-☁️ Azure (Data Lake, Synapse, Blob Storage)
-🔥 Databricks (Delta Live Tables, Notebooks, MLflow)
-🐍 Python | ☕ Java | 💠 C++ | 🧪 SQL (PostgreSQL, MySQL, T-SQL)
-⚡ Apache Spark | 📦 Kafka | 🌪️ Apache Airflow
-📊 Power BI (DAX, Real-time Dashboards)
-🐳 Docker | 🔁 Git & GitHub | 🧠 ML & Forecasting Models
