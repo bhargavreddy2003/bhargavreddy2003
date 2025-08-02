@@ -1,7 +1,8 @@
 <h3 align="center">Hey there 👋 I'm Bhargav Reddy</h3>
 
 <p align="justify">
-  <img src="assets/Side_dp.gif" width="200" height="200" align="right" style="border-radius: 50%; margin-left: 15px; margin-bottom: 10px;" />
+  <img src="assets/Side_dp.gif" width="200" height="200"
+       style="float: right; border-radius: 50%; margin-left: 20px; margin-bottom: 10px;" />
   I'm an ECE undergrad who's genuinely passionate about building real-world data solutions.  
   I love working with large-scale datasets, streaming pipelines, and using modern data tools  
   to turn raw data into meaningful insight. Whether it's building end-to-end data pipelines  
