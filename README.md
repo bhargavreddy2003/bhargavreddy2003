@@ -12,13 +12,11 @@
 </p>
 ---
 
-### 📫 Reach me at:
+<h3  align="left"> 📫 Reach me at:</h3>
 **mvsbhargavreddy@gmail.com**
 
----
-
-### 🌐 Connect with me:
-<p>
+<h3 align="left"> 🌐 Connect with me:</h3>
+<p alight="left">
   <a href="https://linkedin.com/in/bhargavreddy2003" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
