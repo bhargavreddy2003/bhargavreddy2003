@@ -10,7 +10,7 @@ and using modern data tools to turn raw data into meaningful insight.
 
 <!-- ✅ Rounded image using supported HTML style -->
 <div align="right">
-  <img src="assets/Side_dp.gif" width="250" height="250" style="border-radius: 50%;" />
+  <img src="assets/Side_dp.gif" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 ---
